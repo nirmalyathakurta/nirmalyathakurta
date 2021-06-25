@@ -25,7 +25,7 @@
 ### Coding Stats:
 <!--START_SECTION:waka-->
 ```text
-C++       92 hrs 26 mins  █████████████████████████   99.84 % 
+C++       92 hrs 26 mins  █████████████████████████   95.84 % 
 Python    22 hrs 54 mins  ██████████████████          64.55%
 C         54 hrs 22 mins  █████████████████████       88%
 Java      12 hrs 36 mins  ████████                    29.12%
