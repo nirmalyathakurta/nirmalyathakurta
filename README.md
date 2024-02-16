@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h3 align="center">A Growing DevOp coder</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmalyathakurta&label=Profile%20views&color=0e75b6&style=flat" alt="nirmalyathakurta" /> </p>
 
